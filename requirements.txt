@@ -12,8 +12,9 @@ seaborn
 scikit-learn
 ipdb
 jupyterlab
-PyPDF2
-PdfReader
+PyPDF2  #for text pdf
+tesseract-ocr  #for scanned pdf
+pytesseract
 
 # tests/linter
 black
