@@ -14,10 +14,6 @@ ipdb
 jupyterlab
 PyPDF2
 PdfReader
-textract
-poppler-utils
-tesseract-ocr
-pycryptodome
 
 # tests/linter
 black
