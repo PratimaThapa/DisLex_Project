@@ -13,6 +13,7 @@ scikit-learn
 ipdb
 jupyterlab
 PyPDF2  #for text pdf
+PyMuPDF
 tesseract-ocr  #for scanned pdf
 pytesseract
 
