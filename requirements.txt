@@ -25,6 +25,7 @@ openpyxl==3.1.2    #for reading excel files
 et-xmlfile==1.1.0
 gensim==4.3.2
 smart-open==6.4.0
+kaleido == 0.2.1    #for displaying images
 
 # tests/linter
 black
