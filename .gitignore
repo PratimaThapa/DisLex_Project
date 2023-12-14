@@ -7,5 +7,6 @@ csv_files/
 images/
 pkl files/
 *.csv
+*.pkl
 **/__pycache__/
 .env
