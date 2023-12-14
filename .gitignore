@@ -3,6 +3,9 @@
 .ipynb_checkpoints
 .DS_Store
 raw_data/
+csv_files/
+images/
+pkl files/
 *.csv
 **/__pycache__/
 .env
