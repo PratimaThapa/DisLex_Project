@@ -19,6 +19,7 @@ PyMuPDF==1.23.5
 tesseract-ocr==0.0.1  #for scanned pdf
 pytesseract==0.3.10
 bertopic==0.15.0
+pyspellchecker==0.7.2
 openpyxl==3.1.2    #for reading excel files
 et-xmlfile==1.1.0
 gensim==4.3.2
@@ -28,6 +29,7 @@ huggingface-hub==0.19.3
 sentence-transformers==2.2.2
 tokenizers==0.15.0
 transformers==4.35.2
+wordninja==2.0.0
 
 # tests/linter
 black==23.10.1
